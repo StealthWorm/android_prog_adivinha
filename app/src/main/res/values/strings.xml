@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Adivinha</string>
+    <string name="botaoJogar">Jogar</string>
+    <string name="textoNumero">Nenhum número</string>
+</resources>
